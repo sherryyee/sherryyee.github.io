@@ -1,16 +1,31 @@
 ---
 permalink: /
-title: "About Me"
+title: "陶小旖 | Xiaoyi Tao"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-**陶小旖 (Xiaoyi Tao)**, Ph.D.
-Lecturer | Graduate Supervisor | School of Information Engineering, Tianjin University of Commerce
-Email: taoxiaoyi2011@gmail.com
+<div class="academic-home">
+  <h1 class="academic-home__title">陶小旖 <span lang="en">Xiaoyi Tao</span></h1>
+  <p class="academic-home__role">博士｜讲师｜研究生导师<br>天津商业大学信息工程学院</p>
+  <p class="academic-home__lead">主要从事智能网络、联邦学习安全、物联网智能感知、人机交互与智能感知系统研究，聚焦边缘智能系统中的资源调度、安全可信与感知理解等关键问题。</p>
+  <div class="academic-home__actions">
+    <a href="{{ '/publications/' | relative_url }}">查看论文成果</a>
+    <a href="{{ '/cv/' | relative_url }}">查看学术履历</a>
+    <a href="mailto:taoxiaoyi2011@gmail.com">联系我</a>
+  </div>
 
+  <h2 id="research">研究方向</h2>
+  <div class="academic-home__grid">
+    <div class="academic-home__card"><h3>智能网络与边缘智能</h3><p>边缘资源调度、移动边缘计算、网络服务编排与云边协同。</p></div>
+    <div class="academic-home__card"><h3>联邦学习安全</h3><p>鲁棒联邦学习、后门攻击防御、可解释学习与可信智能。</p></div>
+    <div class="academic-home__card"><h3>物联网智能感知</h3><p>面向人机交互的动作追踪、人体活动识别与多模态感知。</p></div>
+    <div class="academic-home__card"><h3>智能感知系统</h3><p>边缘视频分析、行为质量评估与面向实际场景的智能系统。</p></div>
+
+  </div>
+</div>
 ## 个人简介 (Biography)
 主要从事智能网络、联邦学习安全、物联网智能感知、人机交互与智能感知系统等方向研究。近年来围绕边缘智能系统中的资源调度、安全可信与感知理解等关键问题开展系统性研究，在 IEEE Transactions on Dependable and Secure Computing、IEEE Transactions on Computers、IEEE Transactions on Cloud Computing、IEEE Internet of Things Journal、IEEE Transactions on Mobile Computing 等国际重要期刊和会议发表多篇论文。当前共发表论文30余篇（其中一作9篇，通讯7篇）。主持横向课题、校级科研项目及重点实验室开放基金等多项科研任务，相关成果已形成授权发明专利和软件著作权。长期承担计算机网络、操作系统、数据库原理、计算机系统结构等核心课程教学，并参与工程教育认证、一流本科专业建设、智慧课程建设及学生创新竞赛指导。
 
