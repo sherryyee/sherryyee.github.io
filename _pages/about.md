@@ -22,15 +22,6 @@ redirect_from:
 ## 个人简介 (Biography)
 主要从事智能网络、联邦学习安全、物联网智能感知、人机交互与智能感知系统等方向研究。近年来围绕边缘智能系统中的资源调度、安全可信与感知理解等关键问题开展系统性研究，在 IEEE Transactions on Dependable and Secure Computing、IEEE Transactions on Computers、IEEE Transactions on Cloud Computing、IEEE Internet of Things Journal、IEEE Transactions on Mobile Computing 等国际重要期刊和会议发表多篇论文。当前共发表论文30余篇（其中一作9篇，通讯7篇）。主持横向课题、校级科研项目及重点实验室开放基金等多项科研任务，相关成果已形成授权发明专利和软件著作权。长期承担计算机网络、操作系统、数据库原理、计算机系统结构等核心课程教学，并参与工程教育认证、一流本科专业建设、智慧课程建设及学生创新竞赛指导。
 
-## 教育背景 (Education)
-* **2011.09 -- 2019.06**: 博士 (Ph.D.)，计算机应用技术，计算机科学与技术，大连理工大学。
-* **2007.09 -- 2011.06**: 学士 (B.S.)，软件工程，软件学院，大连理工大学。
-
-## 工作经历 (Work Experience)
-* **2024.08 -- 至今**: 讲师，信息工程学院，天津商业大学。
-* **2019.09 -- 2024.07**: 讲师，信息科学技术学院，大连海事大学。
-* **2019.03 -- 2019.09**: 卓越研究员，信息科学系，室兰工业大学，日本。
-
 ## 发表论文 (Publications)
 
 ### 期刊论文 (Journal Papers)
