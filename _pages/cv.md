@@ -22,18 +22,14 @@ Work experience
 * 2019.09-2024.08: Lecturer
   * Dalian Maritime University
  
-* 2019.04-2019.08: Posdoc
-  * Muroran Institution of Technology
+* 2019.04-2019.08: Postdoc
+  * Muroran Institute of Technology
 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Python, Java, C++
+* Research Interests: Computer Science, Software Engineering
 
 Publications
 ======
@@ -53,6 +49,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
