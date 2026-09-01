@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "陶小旖 | Xiaoyi Tao"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,12 +11,6 @@ redirect_from:
   <h1 class="academic-home__title">陶小旖 <span lang="en">Xiaoyi Tao</span></h1>
   <p class="academic-home__role">博士｜讲师｜研究生导师<br>天津商业大学信息工程学院</p>
   <p class="academic-home__lead">主要从事智能网络、联邦学习安全、物联网智能感知、人机交互与智能感知系统研究，聚焦边缘智能系统中的资源调度、安全可信与感知理解等关键问题。</p>
-  <div class="academic-home__actions">
-    <a href="{{ '/publications/' | relative_url }}">查看论文成果</a>
-    <a href="{{ '/cv/' | relative_url }}">查看学术履历</a>
-    <a href="mailto:taoxiaoyi2011@gmail.com">联系我</a>
-  </div>
-
   <h2 id="research">研究方向</h2>
   <div class="academic-home__grid">
     <div class="academic-home__card"><h3>智能网络与边缘智能</h3><p>边缘资源调度、移动边缘计算、网络服务编排与云边协同。</p></div>
