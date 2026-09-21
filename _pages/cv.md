@@ -9,7 +9,7 @@ redirect_from:
 
 # 陶小旖｜Xiaoyi Tao
 
-博士，讲师，研究生导师；现任天津商业大学信息工程学院讲师。研究兴趣涵盖智能网络、边缘智能、联邦学习安全、物联网智能感知、人机交互与智能感知系统。
+陶小旖，天津商业大学讲师，天津大学网络与云计算实验室（TANKLab）合作导师，天津市先进网络技术与应用重点实验室兼职研究员。主要研究方向为边缘计算与智能网络、物联网智能感知、医疗人工智能及计算机视觉。
 
 ## 教育背景
 
@@ -19,7 +19,7 @@ redirect_from:
 ## 工作经历
 
 * **2024.08 – 至今**　天津商业大学信息工程学院，讲师
-  * 承担计算机类核心课程教学，开展智能网络、边缘智能、联邦学习安全与物联网感知研究。
+  * 天津大学网络与云计算实验室（TANKLab）合作导师；天津市先进网络技术与应用重点实验室兼职研究员。承担计算机类核心课程教学，开展边缘计算与智能网络、物联网智能感知、医疗人工智能与计算机视觉研究。
 * **2019.09 – 2024.07**　大连海事大学信息科学技术学院，讲师
   * 承担本科与研究生教学任务，参与网络工程专业工程教育认证、辽宁省一流本科专业建设及智慧课程建设。
 * **2019.03 – 2019.09**　日本室兰工业大学信息科学系，卓越研究员
@@ -27,7 +27,7 @@ redirect_from:
 
 ## 论文成果
 
-已发表论文 30 余篇，其中第一作者 9 篇、通讯作者 7 篇；代表成果发表于 IEEE Transactions on Dependable and Secure Computing、IEEE Transactions on Computers、IEEE Transactions on Cloud Computing、IEEE Internet of Things Journal、IEEE Transactions on Mobile Computing 等期刊和国际会议。
+累计发表学术论文 30 余篇（其中一作 9 篇、通讯 7 篇），近 3 年在计算机与物联网领域发表权威论文 10 余篇，其中包括 TDSC、TC、TMC、TCC、IoTJ 等国际知名期刊。
 
 [查看完整论文列表]({{ '/publications/' | relative_url }})
 
@@ -56,7 +56,7 @@ redirect_from:
 ## 荣誉与学术服务
 
 * **荣誉：**大连海事大学卓越学者（2021）；大连市青年才俊（2020）；IEEE Communications Society 卓越审稿人（2016）；International Conference on Ubiquitous Computing and Communications 最佳论文奖（2015）。
-* **学术组织：**IEEE、ACM、CCF 会员。
+* **学术组织：**CCF 网络与数据通信专委会委员、物联网专委会委员、CCF 天津分部委员；IEEE、ACM 会员。
 * **审稿服务：**IEEE Transactions on Computers、IEEE Internet of Things Journal、IEEE Transactions on Emerging Topics in Computing、ACM TOMM、IEEE Communications Letters、IEEE Wireless Communications Letters 等。
 * **会议组织：**CyberSciTech Workshop 2025、ICPADS 2024 / 2019、Globecom 2017、ISAP 2016、BDCloud 2015、ICA3PP 2014 等。
 * **语言：**CET-6；日语能力考试 N2。

@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "陶小旖 | Xiaoyi Tao"
 title_separator          : "-"
 name                     : &name "Xiaoyi Tao"
-description              : "智能网络、边缘智能、联邦学习安全与物联网智能感知"
+description              : "边缘计算与智能网络、物联网智能感知、医疗人工智能及计算机视觉"
 url                      : https://sherryyee.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "sherryyee/sherryyee.github.io"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "陶小旖 | Xiaoyi Tao"
-  bio              : "讲师｜研究生导师"
+  bio              : "天津商业大学讲师｜TANKLab 合作导师"
   location         : "Tianjin, China"
   employer         : "Tianjin University of Commerce"
   uri              : #
@@ -137,7 +137,7 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Social media default site image
-og_description           : "陶小旖（Xiaoyi Tao）个人学术主页：智能网络、边缘智能、联邦学习安全与物联网智能感知。"
+og_description           : "陶小旖（Xiaoyi Tao）个人学术主页：边缘计算与智能网络、物联网智能感知、医疗人工智能及计算机视觉。"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
